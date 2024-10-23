@@ -59,4 +59,6 @@ Optou-se por não incluir o fator de participação em outras competições, poi
 
 ## Como Executar o Projeto
 
-Para executar o projeto, siga os passos abaixo:
+Para executar o projeto, acesse o link abaixo
+
+https://colab.research.google.com/drive/1ejh-lpuUArWKkyKR019AX_9TVEpIAx6e?usp=sharing
